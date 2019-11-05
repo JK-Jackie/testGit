@@ -1,0 +1,8 @@
+spring booot 相关配置文件，svn和git插件，邮箱，springboot应用(idea)
+linux虚拟机，本地搭建svn，git仓库，码云，eclipse上配置svn插件()
+
+云服务 oracle里面的dblink
+
+Centos下载链接：https://www.centos.org
+
+python maven
